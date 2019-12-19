@@ -1,0 +1,7 @@
+Flask
+gunicorn
+requests
+emoji
+pytz
+datetime
+APScheduler
