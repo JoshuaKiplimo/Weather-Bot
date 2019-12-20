@@ -14,7 +14,7 @@ As of now, the bot's functionality is returning weather conditions :cloud: based
 
 I restricted location of the weather API to one place. 
 
-## preview
+screenshots:
 
 
 
