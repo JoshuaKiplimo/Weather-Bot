@@ -23,7 +23,7 @@ I restricted location of the weather API to one place.
 
 
 
-![preview 2]("https://github.com/JoshuaKiplimo/Weather-Bot/tree/master/images/chatbot2.png")
+<!-- ![preview 2]("https://github.com/JoshuaKiplimo/Weather-Bot/tree/master/images/chatbot2.png") -->
 
 
 
