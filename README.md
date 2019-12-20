@@ -16,7 +16,9 @@ I restricted location of the weather API to one place.
 
 ## preview
 
-![preview 1]("https://github.com/JoshuaKiplimo/Weather-Bot/tree/master/images/chatbot1.png")
+
+
+![preview 1](/images/chatbot1.png")
 
 
 
