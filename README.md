@@ -10,34 +10,13 @@ For example: Weather Monday 9am which will return anticipated weather for that d
 The bot also notifies users everyday at a fixed time if rain is expected to fall the next day or if temperature goes below or above a certain temperature 
 
 
-As of now, the bot's functionality is returning weather conditions :snowflake: :sunny: :cloud: based on data provided by [OpenWeather API](https://openweathermap.org/api)
+As of now, the bot's functionality is returning weather conditions :cloud: based on data provided by [OpenWeather API](https://openweathermap.org/api)
 
 I restricted location of the weather API to one place. 
 
 ## preview
 
 ![preview 1]("https://github.com/JoshuaKiplimo/Weather-Bot/tree/master/images/chatbot1.png")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
