@@ -16,8 +16,8 @@ I restricted location of the weather API to one place.
 
 ## preview
 
-![A preview of the bot](https://github.com/JoshuaKiplimo/orangeburg-weather-app/blob/master/images/chatbot1.png)
-![A preview of the bot](https://github.com/JoshuaKiplimo/orangeburg-weather-app/blob/master/images/chatbot2.png)
+![A preview of the bot](https://github.com/JoshuaKiplimo/Weather-Bot/tree/master/images/chatbot1.png)
+![A preview of the bot](https://github.com/JoshuaKiplimo/Weather-Bot/tree/master/images/chatbot2.png)
 
 
 
