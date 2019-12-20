@@ -1,7 +1,6 @@
 import os
 import sys
 import json
-import emoji
 import requests
 import pytz
 from datetime import datetime, timedelta
@@ -220,7 +219,7 @@ def webhook():
 
                     
                     
-                    msg = "Hey {}, \nTommorow: {}  will be raining {}. \n\nIf you plan to walk outside remember to carry an umbrella{} or a raincoat".format('honors class of 2023', ', '.join(d), "\N{Umbrella With Rain Drops}", "\N{Umbrella}" )
+                    msg = "Tommorow: {}  will be raining {}. \n\nIf you plan to walk outside remember to carry an umbrella{} or a raincoat".format( ', '.join(d), "\N{Umbrella With Rain Drops}", "\N{Umbrella}" )
             print(msg)
 
 
@@ -229,7 +228,7 @@ def webhook():
             for cold in cold_days:
                 if cold[0:2] == tommorow[0:2]:
                     c.append(cold)
-                    msg = "Hey {}, \nTommorow: {}. \nTemperatures will also fall to below 40Fs. \n\nHave something warm on!{}".format('honors class of 2023', ', '.join(c), "\N{Coat}" )
+                    msg = "Tommorow: {}. \nTemperatures will also fall to below 40Fs. \n\nHave something warm on!{}".format(', '.join(c), "\N{Coat}" )
             print(msg)
 
         if temp_and_rain:
@@ -242,7 +241,7 @@ def webhook():
                 if cold[0:2] == tommorow[0:2]:
                     c.append(cold)
 
-            msg = "Hey {}, \nTommorow: {} will be raining {}. \n\nIf you plan to walk outside remember to carry an umbrella{} or a raincoat.\n\nOn the same day, {} temperatures may also fall to below 40F. \n\nSomething warm may suffice{}.".format('Honors Class of 2023', ', '.join(d), "\N{Umbrella With Rain Drops}", '\N{Umbrella}', ', '.join(c), "\N{Coat}")
+            msg = "Tommorow: {} will be raining {}. \n\nIf you plan to walk outside remember to carry an umbrella{} or a raincoat.\n\nOn the same day, {} temperatures may also fall to below 40F. \n\nSomething warm may suffice{}.".format(', '.join(d), "\N{Umbrella With Rain Drops}", '\N{Umbrella}', ', '.join(c), "\N{Coat}")
             print(msg)
 
         send_message(msg)
