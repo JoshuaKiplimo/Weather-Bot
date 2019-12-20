@@ -18,7 +18,7 @@ I restricted location of the weather API to one place.
 
 
 
-![preview 1](/images/chatbot1.png")
+![screenshot1](/images/chatbot1.png)
 
 
 
