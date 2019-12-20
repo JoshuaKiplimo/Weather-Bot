@@ -14,7 +14,7 @@ As of now, the bot's functionality is returning weather conditions :cloud: based
 
 I restricted location of the weather API to one place. 
 
-screenshots:
+###### screenshots:
 
 
 
@@ -25,4 +25,4 @@ screenshots:
 
 
 
-Credits to [apnorton](http://www.apnorton.com/blog/2017/02/28/How-I-wrote-a-Groupme-Chatbot-in-24-hours/) for the chatbot tutorial 
+Credits to [apnorton](http://www.apnorton.com/blog/2017/02/28/How-I-wrote-a-Groupme-Chatbot-in-24-hours/) 
